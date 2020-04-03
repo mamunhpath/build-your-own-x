@@ -77,6 +77,7 @@
 * [**JavaScript**: _Learn & Build a JavaScript Blockchain_](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
 * [**JavaScript**: _Creating a blockchain with JavaScript_](https://github.com/SavjeeTutorials/SavjeeCoin)
 * [**JavaScript**: _How To Launch Your Own Production-Ready Cryptocurrency_](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
+* [**JavaScript**: _Writing a Blockchain in Node.js_](https://www.jsmonday.dev/articles/34/writing-a-blockchain-in-node-js)
 * [**Kotlin**: _Let’s implement a cryptocurrency in Kotlin_](https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580)
 * [**Python**: _Learn Blockchains by Building One_](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: _Build your own blockchain: a Python tutorial_](http://ecomunsing.com/build-your-own-blockchain)
@@ -166,6 +167,7 @@
 * [**JavaScript**: _Make Your Own AngularJS_](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 * [**JavaScript**: _How to write your own Virtual DOM_](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 * [**JavaScript**: _Building a frontend framework, from scratch, with components (templating, state, VDOM)_](https://mfrachet.github.io/create-frontend-framework/)
+* [**JavaScript**: _Build your own React_](https://pomb.us/build-your-own-react/)
 
 #### Build your own `Game`
 
@@ -202,7 +204,7 @@
 * [**Python**: _Roguelike Tutorial Revised_](http://rogueliketutorials.com/)
 * [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
 * [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
-* [**Rust**: _Adventures in Rust: A Basic 2D Game_](https://a5huynh.github.io/2018/02/02/adventures-in-rust.html)
+* [**Rust**: _Adventures in Rust: A Basic 2D Game_](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [**Rust**: _Roguelike Tutorial in Rust + tcod_](https://tomassedovic.github.io/roguelike-tutorial/)
 
 #### Build your own `Git`
@@ -235,6 +237,7 @@
 * [**Python**: _Optical Character Recognition (OCR)_](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
 * [**Python**: _Traffic signs classification with a convolutional network_](https://navoshta.com/traffic-signs-classification/)
 * [**Python**: _Generate Music using LSTM Neural Network in Keras_](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
+* [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 
 #### Build your own `Operating System`
 
@@ -284,7 +287,7 @@
 * [**Elixir**: _Demystifying compilers by writing your own_](https://www.youtube.com/watch?v=zMJYoYwOCd4) [video]
 * [**Go**: _The Super Tiny Compiler_](https://github.com/hazbo/the-super-tiny-compiler)
 * [**Go**: _Lexical Scanning in Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
-* [**Haskell**: _Let's Build a Compiler_](http://alephnullplex.github.io/cradle/)
+* [**Haskell**: _Let's Build a Compiler_](https://g-ford.github.io/cradle/)
 * [**Haskell**: _Write You a Haskell_](http://dev.stephendiehl.com/fun/)
 * [**Haskell**: _Write Yourself a Scheme in 48 Hours_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [**Haskell**: _Write You A Scheme_](https://www.wespiser.com/writings/wyas/home.html)
@@ -402,6 +405,7 @@
 * [**C#**: _C# Networking: Create a TCP chater server, TCP games, UDP Pong and more_](https://16bpp.net/tutorials/csharp-networking)
 * [**C#**: _Loading and rendering 3D skeletal animations from scratch in C# and GLSL_](https://www.seanjoflynn.com/research/skeletal-animation.html)
 * [**Clojure**: _Building a spell-checker_](https://bernhardwenzel.com/articles/clojure-spellchecker/)
+* [**Go**, _Let's Create a Simple Load Balancer_](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 * [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
 * [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
